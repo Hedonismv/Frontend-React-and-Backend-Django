@@ -1,3 +1,31 @@
+# Frontend of this application was written in React js, Backend in Django3 using Django REST API.
+
+# What this Do?
+Simple task manager with CRUD capability
+
+
+# Start Backend Server
+
+In the Backend directory, you can run:
+
+### `python manage.py runserver` 
+Started on http://localhost:8000 
+U can add to this link /api/tasks/ to see API
+and admin before ### `python manage.py createsuperuser` and saw the admin pannel Django
+
+
+# Start Frontend App 
+
+In the project directory, you can run:
+
+### `npm start`
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
