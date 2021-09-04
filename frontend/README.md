@@ -11,7 +11,7 @@ In the Backend directory, you can run:
 ### `python manage.py runserver` 
 Started on http://localhost:8000 
 U can add to this link /api/tasks/ to see API
-and admin before ### `python manage.py createsuperuser` and saw the admin pannel Django
+and admin before `python manage.py createsuperuser` and saw the admin pannel Django
 
 
 # Start Frontend App 
@@ -19,6 +19,9 @@ and admin before ### `python manage.py createsuperuser` and saw the admin pannel
 In the project directory, you can run:
 
 ### `npm start`
+
+Started on http://localhost:3000
+in backend `settings.py` this port added to WHITELIST
 
 
 
